@@ -4,12 +4,12 @@
       "format": "expanded",
       "extensionName": ".css",
       "savePath": "/src/css"
-    },
-    {
-      "extensionName": ".css",
-      "format": "nested",
-      "savePath": "/src/css"
     }
+    // {
+    //   "extensionName": ".css",
+    //   "format": "nested",
+    //   "savePath": "/src/css"
+    // }
   ],
   "liveSassCompile.settings.excludeList": [
     "**/node_modules/**",
